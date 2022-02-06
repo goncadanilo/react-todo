@@ -15,6 +15,8 @@ export function TaskList() {
   const [newTaskTitle, setNewTaskTitle] = useState('');
 
   function handleCreateNewTask() {
+    if (newTaskTitle.trim() === '') return;
+
     const newTask: Task = {
       id: idGenerator(),
       title: newTaskTitle,
