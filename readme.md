@@ -1,9 +1,9 @@
 <h1 align="center">
  ⚛ Desafio: Conceitos do React
 </h1>
-<h2 align="center">
+<h3 align="center">
   🚀 Bootcamp Ignite
-</h2>
+</h3>
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/goncadanilo/react-todo.svg">
