@@ -6,20 +6,12 @@
 </h3>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/goncadanilo/react-todo.svg">
+   <img src="https://img.shields.io/static/v1?label=Desafio&message=01&color=8257E5&labelColor=000000" />
+ 
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E5&labelColor=000000">
 
-  <a href="https://github.com/goncadanilo/react-todo/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/goncadanilo/react-todo.svg">
-  </a>
-
-  <a href="https://github.com/goncadanilo/react-todo/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/goncadanilo/react-todo.svg">
-  </a>
-
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-
-  <a href="https://github.com/goncadanilo/">
-    <img alt="Author" src="https://img.shields.io/badge/author-Danilo%20Gon%C3%A7alves-blue">
+  <a href="https://app.rocketseat.com.br/me/goncadanilo">
+    <img src="https://img.shields.io/static/v1?label=Made%20By&message=Danilo%20Gon%C3%A7alves&color=8257E5&labelColor=000000" />
   </a>
 </p>
 
