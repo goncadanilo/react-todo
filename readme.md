@@ -39,7 +39,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Nesse desafio, desenvolvi uma aplicação para treinar o que aprendi no módulo: Fundamentos do ReactJS.
+Nesse desafio, desenvolvi uma aplicação para treinar o que aprendi no módulo: **Fundamentos do ReactJS**.
 
 Essa é uma pequena aplicação de atividades a fazer, a famosa to-do list, para treinar um pouco mais sobre manipulação do estado no React.
 
