@@ -31,7 +31,7 @@
 <br>
 
 <p align="center">
-  <img alt="Auth NestJS" src=".github/react-todo.png">
+  <img alt="React TO-DO" src=".github/react-todo.png">
 </p>
 
 ## 🚀 Tecnologias
