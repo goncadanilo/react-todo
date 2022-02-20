@@ -57,7 +57,7 @@ Essa é uma pequena aplicação de atividades a fazer, a famosa to-do list, para
 ### 🗂 Faça um clone do projeto
 
 ```bash
-$ git clone https://github.com/goncadanilo/react-todo
+$ git clone https://github.com/goncadanilo/react-todo.git
 ```
 
 ### 📥 Instale as dependências
