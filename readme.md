@@ -63,27 +63,27 @@ Essa é uma pequena aplicação de atividades a fazer, a famosa to-do list, para
 ### 🗂 Faça um clone do projeto
 
 ```bash
-$ git clone https://github.com/goncadanilo/react-todo.git
+git clone https://github.com/goncadanilo/react-todo.git
 ```
 
 ### 📥 Instale as dependências
 ```bash
 # Acesse o diretório do projeto
-$ cd react-todo
+cd react-todo
 
 # Instale as dependências
-$ yarn
+yarn
 ```
 
 ### ⚡ Inicie a aplicação
 ```bash
-$ yarn dev
+yarn dev
 ```
 
 ### ⚗ Teste a aplicação
 Para rodar os testes (utilizados na correção do desafio) execute o comando:
 ```bash
-$ yarn test
+yarn test
 ```
 
 ## 📝 Licença
